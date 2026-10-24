@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82902000630",
+    "project_id": "proxisafe-iot",
+    "storage_bucket": "proxisafe-iot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82902000630:android:f69c813b2345f61ccc9dd7",
+        "android_client_info": {
+          "package_name": "com.example.proxysafeiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ3eG7iBKORevPrJ9R3gUJd97F9kOHDGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
